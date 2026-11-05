@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-dropshipping-nextjs",
+  "capabilityKey": "planned:ecommerce:dropshipping",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-ecommerce-dropshipping-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/ecommerce/nextjs/dropshipping.md",
+  "presentationPlan": "projects/ecommerce/nextjs/dropshipping.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
